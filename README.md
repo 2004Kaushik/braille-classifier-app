@@ -25,9 +25,9 @@ The model (`braille_classifier.keras`) is trained to classify Braille characters
 ## 📁 Project Structure
 
 braille-api/ 
-│ 
-├── app.py # FastAPI server with /predict endpoint 
-├── braille_classifier.keras # Trained TensorFlow model 
-├── requirements.txt # Dependency list 
-├── Dockerfile # Docker container setup 
+│
+├── app.py # FastAPI server with /predict endpoint
+├── braille_classifier.keras # Trained TensorFlow model
+├── requirements.txt # Dependency list
+├── Dockerfile # Docker container setup
 └── README.md # Project documentation
